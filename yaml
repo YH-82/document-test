@@ -1,0 +1,10 @@
+docs:
+  - name: name
+    type: git
+    base: http://example.com/git/myproduct
+    path: /docs
+  - name: n2
+    type: file
+    path: /docs
+training:
+  - name: name
