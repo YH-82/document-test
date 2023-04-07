@@ -1,9 +1,9 @@
 docs:
-  - name: name
+  - name: project1
     type: git
     base: http://example.com/git/myproduct
     path: /docs
-  - name: n2
+  - name: project2
     type: file
     path: /docs
 training:
